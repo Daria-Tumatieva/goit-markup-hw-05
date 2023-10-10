@@ -522,7 +522,7 @@ fill: #f4f4fd;
     display: flex;
 }
 .footer-form-label {
-
+gap: 24px;
 }
 
 .footer-input {
